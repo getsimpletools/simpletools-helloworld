@@ -1,0 +1,11 @@
+{
+	"name": "simpletools/helloworld",
+	"description": "Simpletools Framework Hello World.",
+	"keywords": ["framework", "laravel"],
+	"license": "BSD",
+	"type": "project",
+	"require": {
+		"simpletools/framework": ">= 2.0"
+	},
+	"minimum-stability": "stable"
+}
