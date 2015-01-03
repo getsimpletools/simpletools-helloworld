@@ -4,20 +4,20 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "eec4dd8dcbc0249d210d057c2a339775",
+    "hash": "6ddc8a110fb5c147bd08d644be3a5489",
     "packages": [
         {
             "name": "simpletools/framework",
-            "version": "2.0.10",
+            "version": "2.0.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getsimpletools/simpletools.git",
-                "reference": "95c5caf029698ba413657332f2a74d5b6261cacd"
+                "reference": "7cf34a861defe16fbb79a388b001f11c8a21c1e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getsimpletools/simpletools/zipball/95c5caf029698ba413657332f2a74d5b6261cacd",
-                "reference": "95c5caf029698ba413657332f2a74d5b6261cacd",
+                "url": "https://api.github.com/repos/getsimpletools/simpletools/zipball/7cf34a861defe16fbb79a388b001f11c8a21c1e9",
+                "reference": "7cf34a861defe16fbb79a388b001f11c8a21c1e9",
                 "shasum": ""
             },
             "require": {
@@ -45,7 +45,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2014-11-22 20:21:48"
+            "time": "2015-01-03 13:58:09"
         }
     ],
     "packages-dev": [],
@@ -53,6 +53,7 @@
     "minimum-stability": "stable",
     "stability-flags": [],
     "prefer-stable": false,
+    "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
 }
