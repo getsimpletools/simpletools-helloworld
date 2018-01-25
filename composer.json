@@ -2,7 +2,7 @@
 	"name": "simpletools/helloworld",
 	"description": "Simpletools Framework Hello World.",
 	"keywords": ["framework"],
-	"license": "BSD",
+  	"license": "BSD-3-Clause",
 	"type": "project",
 	"require": {
 		"simpletools/framework": ">= 2.0.27"
